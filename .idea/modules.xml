@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Balancing-Act-Simulator.iml" filepath="$PROJECT_DIR$/.idea/Balancing-Act-Simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Data-Science/.idea/Data-Science.iml" filepath="$PROJECT_DIR$/../Data-Science/.idea/Data-Science.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Twitter-Sentiment-Analysis/.idea/Twitter-Sentiment-Analysis.iml" filepath="$PROJECT_DIR$/../Twitter-Sentiment-Analysis/.idea/Twitter-Sentiment-Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pymining/.idea/pymining.iml" filepath="$PROJECT_DIR$/../pymining/.idea/pymining.iml" />
     </modules>
   </component>
 </project>
